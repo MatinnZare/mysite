@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.port": 5537
+    "liveServer.settings.port": 5833,
+    "python.formatting.provider": "black"
 }
